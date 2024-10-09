@@ -26,7 +26,8 @@
 
 1. Gerekli bir C derleyicisi kurulu olduğundan emin olun (örn. `gcc`).
 2. Kaynak kodunu klonlayın veya indirin.
-3. Terminalde proje dizinine gidin.
-4. Aşağıdaki komutla projeyi derleyin:
-   ```bash
-   gcc -o labirent main.c
+
+## Screenshots
+![Ana Ekran](screenshots/AnaEkran.png)
+![Ana Ekran](screenshots/BasariliOyun.png)
+
